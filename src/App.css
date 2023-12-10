@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  padding: 3% 0%;
+}
+
+.card {
+  padding: 2rem;
+}
+
+.img-card {
+  width: 100px;
+  height: 130px;
+}
+
+.body-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 2% 10%;
+}
